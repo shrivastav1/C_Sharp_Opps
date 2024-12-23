@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/TrainingManagement/bin/Debug/net9.0
+/TrainingManagement/obj
+/.vs
+/Abstration/bin/Debug/net9.0
+/Abstration/obj
+/Enum_File_Exception/bin/Debug/net9.0
+/Enum_File_Exception/obj
+/Opps_Concept/bin/Debug/net9.0
+/Opps_Concept/obj
