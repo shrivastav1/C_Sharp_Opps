@@ -30,6 +30,10 @@ namespace TrainingManagementSystem
             Console.WriteLine(((ITrainerDetails)l1).GetDetails());  //ITrainerDetails
             Console.WriteLine(l1.NoOfCourses(2)); //ITrainerDetails 
 
+            BaseCourse b1 = new BaseCourse("C#", 6);
+            b1.CourseName("java");
+            b1.display();
+
 
         }
     }

@@ -23,6 +23,11 @@ namespace TrainingManagementSystem
             durationInWeek = duration;
         }
 
+
+        public void display()
+        {
+            Console.WriteLine($"coures name : {courseName}, duration : {durationInWeek}");
+        }
         public void CourseName(string name)
         {
             Console.WriteLine($"Course Name: {name}");
