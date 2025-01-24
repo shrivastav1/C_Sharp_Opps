@@ -15,7 +15,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Custom_Exception", "Custom_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basic_Dependency", "Basic_Dependency\Basic_Dependency.csproj", "{EC0067D8-B962-4A4F-A27C-38D622D04FB4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dependency_And_Container", "Dependency\Dependency_And_Container.csproj", "{358A4CC5-01D9-4D6A-B2EB-1DC95DA5A103}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainingCrud", "TrainingCrud\TrainingCrud.csproj", "{3EAEE320-942D-4E52-B3EA-8D11D6FE729E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -47,10 +47,10 @@ Global
 		{EC0067D8-B962-4A4F-A27C-38D622D04FB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC0067D8-B962-4A4F-A27C-38D622D04FB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC0067D8-B962-4A4F-A27C-38D622D04FB4}.Release|Any CPU.Build.0 = Release|Any CPU
-		{358A4CC5-01D9-4D6A-B2EB-1DC95DA5A103}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{358A4CC5-01D9-4D6A-B2EB-1DC95DA5A103}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{358A4CC5-01D9-4D6A-B2EB-1DC95DA5A103}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{358A4CC5-01D9-4D6A-B2EB-1DC95DA5A103}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EAEE320-942D-4E52-B3EA-8D11D6FE729E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EAEE320-942D-4E52-B3EA-8D11D6FE729E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EAEE320-942D-4E52-B3EA-8D11D6FE729E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EAEE320-942D-4E52-B3EA-8D11D6FE729E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
